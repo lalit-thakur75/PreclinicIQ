@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Preclinic IQ AI
 
 **SIH 26047 — Patient Case-Taking Software**  
@@ -79,3 +80,7 @@ cd backend && python3 -m pytest -q
 ```
 
 Critical cases: Patient A cannot read Patient B; patients cannot call admin APIs; doctor-verified summaries cannot be overwritten by AI/patient; emergency text reaches the doctor inbox.
+=======
+# PreclinicIQ
+patent case taking software
+>>>>>>> bd534248916842973afdc413f60c728c80f7cbe9
